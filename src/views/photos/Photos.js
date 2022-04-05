@@ -32,7 +32,7 @@ const Photos = () => {
                   macaroon croissant powder bonbon dragée. Fruitcake croissant
                   cake gummies ice cream toffee wafer topping.
                 </p>
-                <Link to="/comments" className="btn btn-primary">
+                <Link to="/comments" className="btn btn-dark">
                   See comments
                 </Link>
               </div>

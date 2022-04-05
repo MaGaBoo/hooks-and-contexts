@@ -1,7 +1,26 @@
+.card-body-home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .myLink {
     position:relative;
     text-decoration: none;
     color: #548687;
     border: 1px solid #548687;
     padding: 5px
+}
+
+.myToggleButton {
+   margin-top: 5px;
+   margin: 1px solid grey;
+   align-self: center;
+   color: grey;
+}
+
+.fluffyTheme {
+    text-decoration: none;
+    color: #E3B9BC;
+
 }
